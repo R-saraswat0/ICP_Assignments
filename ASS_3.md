@@ -16,9 +16,9 @@
     *(LeetCode #3191)*  
     🔗 [Solution Link](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/submissions/1899603556)
 
-12. **LeetCode #3589**  
-    *(Problem title not mentioned)*  
-    🔗 _Add solution link here_
+12. **Count Prime Gap Balanced Subarrays**  
+    *(LeetCode #3589)*  
+    🔗 [Solution Link](https://leetcode.com/problems/count-prime-gap-balanced-subarrays/submissions/1905051645)
 
 ---
 
@@ -27,6 +27,6 @@
     *(LeetCode #950)*  
     🔗 [Solution Link](https://leetcode.com/problems/reveal-cards-in-increasing-order/submissions/1899655552)
 
-14. **LeetCode #1696**  
-    *(Maximum Score from Performing Multiplication Operations / or related problem — title not mentioned)*  
-    🔗 _Add solution link here_
+14. **Jump Game VI**  
+    *(LeetCode #1696)*  
+    🔗 [Solution Link](https://leetcode.com/problems/jump-game-vi/submissions/1905053344)
